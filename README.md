@@ -1,2 +1,1 @@
-# aslanyuzmesporkulubu | balikesiraslanspor.com
-Aslan Yüzme Spor Kulübü | Balıkesir'in Aslanları
+Website design and coding for a local swimming club
